@@ -1,1 +1,1 @@
-# CHEC-coding-challenge
+# CHEC Coding Challenge
